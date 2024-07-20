@@ -1,0 +1,52 @@
+// header file
+#include<stdio.h>
+void main() //main function declaration
+
+// data types
+int - numbers (2,4)
+float - desimal (6)
+char - charecters , in single 'V' (1)
+double - infinate number after desimal (8)
+
+// variable
+type variable name = variable value
+ int a = 10 //declaration of variable
+
+// keywords (32)
+int ,float,char,double,bool,void,for,if,else,while,do,switch,
+def,return,getch(),clrscr(),enum,struct,typedef
+
+//flow statment , looping statment
+if(i<=0){
+    printf("i is negative");
+
+} // for single condition
+else if(i<=0){
+    printf("i is negative");
+} // for two conditions
+else{
+    printf("i is +v");
+}
+
+for(i=0;i<5;i++){
+    printf("hello");
+}// for three conditions 
+
+while(i<5){
+    printf("hello");
+} // for one condition
+do( i=0){
+    printf("hello");
+}while(i<5){
+    printf("hello");
+}
+
+//ARRAY
+//string
+//operators
+types of op (1 .arethmatic ,2 .logical ,3. bitwise ,4. assignment,5. relational,)
+1.(+,-,%,*,/)
+2.(&&,||,!)
+3.(<<,>>,^)
+4.(=,<,>,<=,>=,==,!=)
+5.(&&,||)
